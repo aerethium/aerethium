@@ -1,4 +1,4 @@
-<h1 align="center"><font color="#38bdf8">AERETHIUM</font></h1>
+<h1 align="center"><span style="color: #38bdf8;">AERETHIUM</span></h1>
 
 <p align="center">
   <img
