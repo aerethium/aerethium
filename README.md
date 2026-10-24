@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Banner" style="border-radius: 8px;" />
+  <img src="./banner.jpg" width="100%" alt="Banner" style="border-radius: 8px;" />
 </p>
 
 <br>
