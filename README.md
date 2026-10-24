@@ -13,9 +13,12 @@
 
 <br>
 
-<!-- Wallpaper Banner -->
 <p align="center">
-  <img src="./banner.jpg" width="100%" alt="Wallpaper" style="border-radius: 12px;" />
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=aerethium&theme=neon&style=terminal"
+    alt="aerethium terminal"
+    width="100%"
+  />
 </p>
 
 <br>
