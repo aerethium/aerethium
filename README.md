@@ -14,17 +14,13 @@
 <br>
 
 <p align="center">
+  <img src="./banner.jpg" width="100%" alt="Wallpaper" style="border-radius: 12px 12px 0 0;" />
   <img
     src="https://www.gitskins.com/api/section/hero?username=aerethium&theme=neon&style=terminal"
     alt="aerethium terminal"
     width="100%"
+    style="border-radius: 0 0 12px 12px; margin-top: -5px;"
   />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./banner.jpg" width="100%" alt="Banner" style="border-radius: 8px;" />
 </p>
 
 <br>
