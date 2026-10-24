@@ -44,9 +44,6 @@
   <a href="https://discord.com/users/126031766841858144">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-  <a href="https://github.com/aerethium">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/othmane-ifleh-8b76a1446">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
