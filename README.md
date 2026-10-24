@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Just+a+tech+enthusiast+tinkering+around~;Aspiring+1337+Student;Arch+Linux+%2B+Hyprland;Obsidian+PKM+Vault;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Just+a+tech+enthusiast+tinkering+around~;Aspiring+1337+Student;"
     alt="Typing SVG"
   />
 </p>
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,bash,linux,arch,git,obsidian,neovim"
+    src="https://skillicons.dev/icons?i=c,bash,linux,arch,git,neovim"
     alt="Languages and Tools"
   />
 </p>
