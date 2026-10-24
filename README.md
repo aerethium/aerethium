@@ -14,6 +14,12 @@
 <br>
 
 <p align="center">
+  <img src="./banner.gif" width="100%" alt="Banner" style="border-radius: 12px;" />
+</p>
+
+<br>
+
+<p align="center">
   <img
     src="https://www.gitskins.com/api/section/hero?username=aerethium&theme=neon&style=terminal"
     alt="aerethium terminal"
