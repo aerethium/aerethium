@@ -23,6 +23,12 @@
 
 <br>
 
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="Banner" style="border-radius: 8px;" />
+</p>
+
+<br>
+
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
@@ -36,15 +42,15 @@
 
 <p align="center">
   <a href="https://discord.com/users/126031766841858144">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-    />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://github.com/aerethium">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/othmane-ifleh-8b76a1446">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your_username_here">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
