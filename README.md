@@ -1,4 +1,4 @@
-<h1 align="center">AERETHIUM</h1>
+<h1 align="center"><font color="#38bdf8">AERETHIUM</font></h1>
 
 <p align="center">
   <img
@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Just+a+tech+enthusiast+tinkering+around~;Aspiring+1337+Student;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Just+a+tech+enthusiast+tinkering+around~;Aspiring+1337+Student;"
     alt="Typing SVG"
   />
 </p>
