@@ -1,8 +1,11 @@
 <h1 align="center">AERETHIUM</h1>
 
-<h3 align="center">
-  Linux • Systems • Knowledge Management
-</h3>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,bash,linux,arch,git,neovim&size=24"
+    alt="Languages and Tools"
+  />
+</p>
 
 <p align="center">
   <img
