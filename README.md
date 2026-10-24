@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">AERETHIUM</h1>
 
-<!--
-**aerethium/aerethium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Linux • Systems • Knowledge Management
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Just+a+tech+enthusiast+tinkering+around~;Aspiring+1337+Student;Arch+Linux+%2B+Hyprland;Obsidian+PKM+Vault;"
+    alt="Typing SVG"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=aerethium&theme=neon&style=terminal"
+    alt="aerethium terminal"
+    width="100%"
+  />
+</p>
+
+<br>
+
+<h2 align="center">Languages & Tools</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,bash,linux,arch,git,obsidian,neovim"
+    alt="Languages and Tools"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://discord.com/users/126031766841858144">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/othmane-ifleh-8b76a1446">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
