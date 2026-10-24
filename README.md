@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="Banner" style="border-radius: 8px;" />
+  <img src="./banner.gif" width="100%" alt="Banner" style="border-radius: 16px;" />
 </p>
 
 <br>
