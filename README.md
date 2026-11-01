@@ -35,13 +35,13 @@
 <h2 align="center">Social Media</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/126031766841858144">
+  <a href="https://discord.com/users/1260317666841858144">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/othmane-ifleh-8b76a1446">
+  <a href="https://linkedin.com/in/othmane-ifleh-8b76a1446">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/your_username_here">
+  <a href="https://instagram.com/aerethium">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
