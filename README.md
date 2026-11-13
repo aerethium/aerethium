@@ -2,7 +2,7 @@
   <a href="https://discord.com/users/1260317666841858144" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-101010?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
-  <a href="https://instagram.com/aerethium" target="_blank">
+  <a href="https://www.instagram.com/aerethium" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-101010?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 ```zsh
 #!/usr/bin/env zsh
 # ============================================================================
-#  AERETHIUM // ARCH, ZSH & TINKERING AROUND
+#  AERETHIUM // TINKERING AROUND
 # ============================================================================
 
 aerethium@arch ~ % pwd
@@ -31,8 +31,11 @@ aerethium
 
 aerethium@arch ~ % cat ~/README.md
 uptime: 19 years, 7 months, 29 days, 17 hours, 50 minutes and 12 seconds
-languages: zsh, bash scripting
+languages: zsh, bash scripting, c
 tools and technologies: arch linux, docker, nvim, obsidian
 
 aerethium@arch ~ % 
+coming soon...
+
+
 ```
