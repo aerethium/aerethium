@@ -17,36 +17,26 @@
   <img src="./banner.gif" width="100%" alt="Banner GIF" />
 </p>
 
-```bash
-#!/usr/bin/env bash
+```zsh
+#!/usr/bin/env zsh
 # ============================================================================
-#  AERETHIUM // TINKERING AROUND ON ARCH
+#  AERETHIUM // ARCH, ZSH & TINKERING AROUND
 # ============================================================================
 
-declare -A self=(
-  [user]="aerethium"
-  [status]="Aspiring 1337 Student"
-  [bio]="Just a tech enthusiast tinkering around~"
-  [os]="Arch Linux (btw)"
-  [editor]="Neovim"
-)
+╭─░▒▓  ~                                                                    ✔  at 05:34:29 PM  ▓▒░─╮
+╰─ pwd                                                                                            ─╯
+/home/aerethium
 
-languages=("C" "Bash")
-tools=("Linux" "Arch" "Git" "Neovim")
+╭─░▒▓  ~                                                                    ✔  at 05:34:36 PM  ▓▒░─╮
+╰─ whoami                                                                                         ─╯
+aerethium
 
-main() {
-  printf '%s@github :: %s\n' "${self[user]}" "${self[status]}"
-  printf 'bio      : %s\n'   "${self[bio]}"
-  printf 'os       : %s\n'   "${self[os]}"
-  printf 'editor   : %s\n'   "${self[editor]}"
-  printf 'langs    : %s\n'   "${languages[*]}"
-  printf 'tools    : %s\n'   "${tools[*]}"
+╭─░▒▓  ~                                                                    ✔  at 05:34:39 PM  ▓▒░─╮
+╰─ cat ~/README.md                                                                                ─╯
+uptime: 20 years and 1 day
+languages: zsh, bash scripting
+tools and technologies: arch linux, docker, nvim, obsidian
 
-  if ! command -v nvim >/dev/null 2>&1; then
-    echo "try again." >&2
-    return 1
-  fi
-}
-
-main "$@"
+╭─░▒▓  ~                                                                    ✔  at 05:34:42 PM  ▓▒░─╮
+╰─                                                                                                ─╯
 ```
