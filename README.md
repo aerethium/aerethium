@@ -1,44 +1,54 @@
-<h1 align="center">AERETHIUM</h1>
+## Delivery pipeline
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,bash,linux,arch,git,neovim&size=24"
-    alt="Languages and Tools"
-  />
+  <img src="https://www.gitskins.com/api/section/hero?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium hero visual" />
 </p>
+
+**aerethium** · Frontend or full-stack engineer
+
+## Operating principles
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Morocco
+PUBLIC_REPOS = 3
+COMMUNITY   = 5 followers</code></pre>
+
+Just a tech enthusiast tinkering around~
+
+## Uptime in motion
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Just+a+tech+enthusiast+tinkering+around~;Aspiring+1337+Student;"
-    alt="Typing SVG"
-  />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aerethium&theme=github-dark" alt="aerethium contribution activity" />
 </p>
 
-<br>
+## Service signals
 
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="Banner" style="border-radius: 32px;" />
+  <img src="https://www.gitskins.com/api/section/stats?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium stats visual" />
 </p>
 
-<br>
+<p><code>36 contributions</code> · <code>0 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[dotfiles](https://github.com/aerethium/dotfiles)** — my personal linux hyprland config and dotfiles · ⭐ 1
+- **[minecraft_packs](https://github.com/aerethium/minecraft_packs)** — my personal minecraft java modpack, ressourcepack, shaderpack, and settings  · ⭐ 0
+- **[aerethium](https://github.com/aerethium/aerethium)** — Featured public work · ⭐ 0
+
+## Platform toolkit
+
+<p><code>aerethium@github:~$ toolbox --list</code></p>
 
 <p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/hero?username=aerethium&theme=neon&style=terminal"
-    alt="aerethium terminal"
-    width="100%"
-  />
+  <img src="https://www.gitskins.com/api/section/stack?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium stack visual" />
 </p>
 
-<br>
-
-<h2 align="center">Social Media</h2>
+## Keep it moving
 
 <p align="center">
-  <a href="https://discord.com/users/1260317666841858144">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/aerethium">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/social?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium social visual" />
 </p>
+
+<a href="https://github.com/aerethium">GitHub</a>
+
+<p align="center"><sub>aerethium · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
