@@ -1,54 +1,52 @@
-## Delivery pipeline
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium hero visual" />
+  <a href="https://discord.com/users/1260317666841858144" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-101010?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/aerethium" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-101010?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
 </p>
 
-**aerethium** · Frontend or full-stack engineer
-
-## Operating principles
-
-<pre><code>ROLE        = Frontend or full-stack engineer
-LOCATION    = Morocco
-PUBLIC_REPOS = 3
-COMMUNITY   = 5 followers</code></pre>
-
-Just a tech enthusiast tinkering around~
-
-## Uptime in motion
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=aerethium&theme=github-dark" alt="aerethium contribution activity" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%24+echo+%22Just+a+tech+enthusiast+tinkering+around~%22;%24+echo+%22Aspiring+1337+Student%22" alt="Typing SVG" />
+  </a>
 </p>
 
-## Service signals
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium stats visual" />
+  <img src="./banner.gif" width="100%" alt="Banner GIF" />
 </p>
 
-<p><code>36 contributions</code> · <code>0 day streak</code></p>
+```bash
+#!/usr/bin/env bash
+# ============================================================================
+#  AERETHIUM // TINKERING AROUND ON ARCH
+# ============================================================================
 
-## Infrastructure shipped
+declare -A self=(
+  [user]="aerethium"
+  [status]="Aspiring 1337 Student"
+  [bio]="Just a tech enthusiast tinkering around~"
+  [os]="Arch Linux (btw)"
+  [editor]="Neovim"
+)
 
-- **[dotfiles](https://github.com/aerethium/dotfiles)** — my personal linux hyprland config and dotfiles · ⭐ 1
-- **[minecraft_packs](https://github.com/aerethium/minecraft_packs)** — my personal minecraft java modpack, ressourcepack, shaderpack, and settings  · ⭐ 0
-- **[aerethium](https://github.com/aerethium/aerethium)** — Featured public work · ⭐ 0
+languages=("C" "Bash")
+tools=("Linux" "Arch" "Git" "Neovim")
 
-## Platform toolkit
+main() {
+  printf '%s@github :: %s\n' "${self[user]}" "${self[status]}"
+  printf 'bio      : %s\n'   "${self[bio]}"
+  printf 'os       : %s\n'   "${self[os]}"
+  printf 'editor   : %s\n'   "${self[editor]}"
+  printf 'langs    : %s\n'   "${languages[*]}"
+  printf 'tools    : %s\n'   "${tools[*]}"
 
-<p><code>aerethium@github:~$ toolbox --list</code></p>
+  if ! command -v nvim >/dev/null 2>&1; then
+    echo "try again." >&2
+    return 1
+  fi
+}
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium stack visual" />
-</p>
-
-## Keep it moving
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=aerethium&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F302626587%3Fu%3De1bdd0b55dc7fffc5fdf41c1b04a134d4bf70fb2%26v%3D4" alt="aerethium social visual" />
-</p>
-
-<a href="https://github.com/aerethium">GitHub</a>
-
-<p align="center"><sub>aerethium · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+main "$@"
+```
