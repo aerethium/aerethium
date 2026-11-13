@@ -23,20 +23,16 @@
 #  AERETHIUM // ARCH, ZSH & TINKERING AROUND
 # ============================================================================
 
-╭─░▒▓  ~                                                                    ✔  at 05:34:29 PM  ▓▒░─╮
-╰─ pwd                                                                                            ─╯
+aerethium@arch ~ % pwd
 /home/aerethium
 
-╭─░▒▓  ~                                                                    ✔  at 05:34:36 PM  ▓▒░─╮
-╰─ whoami                                                                                         ─╯
+aerethium@arch ~ % whoami
 aerethium
 
-╭─░▒▓  ~                                                                    ✔  at 05:34:39 PM  ▓▒░─╮
-╰─ cat ~/README.md                                                                                ─╯
-uptime: 20 years and 1 day
+aerethium@arch ~ % cat ~/README.md
+uptime: 20 years, 0 months and 1 day
 languages: zsh, bash scripting
 tools and technologies: arch linux, docker, nvim, obsidian
 
-╭─░▒▓  ~                                                                    ✔  at 05:34:42 PM  ▓▒░─╮
-╰─                                                                                                ─╯
+aerethium@arch ~ % 
 ```
