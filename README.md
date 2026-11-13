@@ -35,7 +35,7 @@ languages: zsh, bash scripting, c
 tools and technologies: arch linux, docker, nvim, obsidian
 
 aerethium@arch ~ % 
-coming soon...
+more coming soon...
 
 
 ```
