@@ -1,14 +1,11 @@
 #!/usr/bin/env bash
-# Rewrites the "uptime:" line in README.md with your exact age:
-# years, months, days, hours, minutes and seconds since BIRTH_DATE (UTC).
 set -euo pipefail
 
-# BIRTH_DATE: "YYYY-MM-DD" or "YYYY-MM-DD HH:MM:SS" (time defaults to 00:00:00)
 BIRTH="${BIRTH_DATE:?set BIRTH_DATE (YYYY-MM-DD)}"
-NOW="${NOW:-$(date -u '+%F %T')}"          # NOW can be overridden for testing
+NOW="${NOW:-$(date -u '+%F %T')}"
 README="${README:-README.md}"
 
-parts() {                                   # "YYYY-MM-DD [HH:MM:SS]" -> 6 numbers
+parts() {
   local d t
   read -r d t <<<"$1"
   t="${t:-00:00:00}"
