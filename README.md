@@ -30,7 +30,7 @@ aerethium@arch ~ % whoami
 aerethium
 
 aerethium@arch ~ % cat ~/README.md
-uptime: 19 years, 7 months, 29 days, 17 hours, 50 minutes and 12 seconds
+uptime: 19 years, 7 months, 30 days, 8 hours, 28 minutes and 46 seconds
 languages: zsh, bash scripting, c
 tools and technologies: arch linux, docker, nvim, obsidian
 
